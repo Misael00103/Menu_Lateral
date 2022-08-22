@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGmUhk3v0YgI+V6g5Sh0R0djV5uF5+/CBRDqIxjmKGc+pY92TtR0B5XjKfCm00MgeLWHLgX/i3Q5guH8/nqBpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Misael Beriguete\\source\\repos\\Menu_Lateral\\Menu_Lateral\\Menu_Lateral.iOS\\Menu_Lateral.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Misael Beriguete\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
